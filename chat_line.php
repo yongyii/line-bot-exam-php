@@ -1,7 +1,7 @@
 <?php
 
 // Start Rate LTC From BX
-$url_str = 'http://nikyuu.myds.me:57/getinfo.php?action=alarm';
+$url_str = 'http://   /getinfo.php?action=alarm';
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL,$url_str);
 curl_setopt($ch, CURLOPT_HEADER, false);
